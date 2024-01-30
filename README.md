@@ -1,5 +1,5 @@
 # GCN-proof
-Code for experiment
+Code for experiment in Derivation of Back-propagation for Graph Convolutional Networks using Matrix Calculus
 
 For Figure 1, the code is located at Code/Node classification/5-layer GCN/(2-class) (loop) GCN_KarateClub_Kronecker_compare.py
 
