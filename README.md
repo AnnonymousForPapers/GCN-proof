@@ -10,6 +10,8 @@ num_nodes =
 ```
 at line 61. The averaged computational time and memory usage will be shown in the output.
 
+The implementation of the derived element-wise backpropagation for binary node classification is written from line 427-507.
+
 ## Matrix-based backpropagation for binary node classification on KarateClub graph using 5-layer GCN
 For Figure 1 in the supplementary file, the code is located at Code/Node classification/5-layer GCN/(2-class) (loop) GCN_KarateClub_Kronecker_compare.py
 
